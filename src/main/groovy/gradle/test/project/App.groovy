@@ -5,8 +5,8 @@ package gradle.test.project
 
 class App {
     String getGreeting() {
-        return null
-        //return 'Hello world.'
+       // return null
+        return 'Hello world.'
     }
 
     static void main(String[] args) {
